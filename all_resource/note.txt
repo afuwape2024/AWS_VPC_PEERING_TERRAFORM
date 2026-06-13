@@ -1,7 +1,9 @@
-#next task
 #create vpc peering
 # create and text ec2 each on each location
-# set up security layer system on it
-# create load balancer
-# auto scaling group on each 
+#======================================
+
+# after creating the instance EC2 
+Use the below to ping the other instance with 
+nc -zv IPV4 port 22.
+Example nc -zv 10.2.15.129 22
 
